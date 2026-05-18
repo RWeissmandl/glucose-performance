@@ -1,4 +1,4 @@
-# Purpose
+# How does blood glucose impact performance?
 
 Overlay activities with blood glucose data. I set this up so I can:
 
